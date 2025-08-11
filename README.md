@@ -4,7 +4,7 @@ Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 and this is my GitHub Profile
 -----------------------------
 
-For the last 7 years I have been an industrial controller programmer. But now i'm a Junior PHP-Developer
+For the last 7 years I have been an industrial controller programmer. But now i'm a PHP-Developer
 
 * 🌍  I'm based in Russia, Saint-P
 * ✉️  You can contact me at [bezmolviemusic@mail.ru](mailto:bezmolviemusic@mail.ru)
